@@ -1,3 +1,4 @@
+import datetime
 from flask import Flask, jsonify
 from flask_restplus import Api, Resource, fields
 from banco_de_dados import BancoDeDados
@@ -99,4 +100,4 @@ class Selecionar(Resource):
 Método principal para iniciar o programa.
 """
 if __name__ == "__main__":
-    app.run("10.24.13.102", debug = True)
+    app.run("10.25.3.133", debug = True)
