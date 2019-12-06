@@ -54,3 +54,6 @@ Valor de humidade médio: 		201.0
 Valor de gás médio: 			188.5
 
 ```
+#### Autores
+[Josymar Cortez](https://github.com/josymarjcm/)
+[Misael Gurgel](https://github.com/misaelpraxedes/)

@@ -37,7 +37,7 @@ def verificar_dados(texto):
 
 if not os.path.exists("arquivos_json"):
 	os.makedirs("arquivos_json")
-ip_servidor = "http://10.24.13.102:5000/"
+ip_servidor = "http://10.25.3.133:5000/"
 
 try:
 	r = requests.get(ip_servidor)
