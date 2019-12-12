@@ -33,7 +33,7 @@ Desenvolver um sistema para coleta de dados (humidade, temperatura e gás) de um
 
 #### Esquemático
 
-Circuito do <h5>Arduino:</h5>
+######Circuito do Arduino:
 <p align="center">
     <img src="circuit.jpeg" alt="imagem do circuito arduino">
 </p>
