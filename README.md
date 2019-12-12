@@ -36,7 +36,7 @@ Desenvolver um sistema para coleta de dados (humidade, temperatura e gás) de um
 Circuito do Arduino:
 
 <p align="center">
-    <img src="circuit.jpeg" alt="imagem do circuito arduino">
+    <img src="img/circuit.jpeg" alt="imagem do circuito arduino">
 </p>
 
 #### Exemplo de funcionamento
