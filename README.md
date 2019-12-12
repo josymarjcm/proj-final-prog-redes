@@ -31,6 +31,13 @@ Desenvolver um sistema para coleta de dados (humidade, temperatura e gás) de um
 2) O script [cliente.py](src/cliente.py) faz requisições ao servidor em busca dos dados definidos em tempo real pelo cliente;
 3) Após os dados serem obtidos, o script [cliente.py](src/cliente.py) os salva em um arquivo no formato JSON e exibe a média dos mesmos para o usuário. O usuário tem quatro opções de consulta: temperatura, humidade, gás e todas as anteriores.
 
+#### Esquemático
+
+Circuito do <h5>Arduino:</h5>
+<p align="center">
+    <img src="circuit.jpeg" alt="imagem do circuito arduino">
+</p>
+
 #### Exemplo de funcionamento
 
 ```
